@@ -1,0 +1,210 @@
+\\ [1000.0.900] UNSC AI ATHENA: SERIAL : 252.312.5968 [] \\ - \\
+\\ STATUS: OPERATIONAL [] OP \CODE 47                         \\
+\\ TIMESTAMP JULY 26, 2552............                        \\
+\\ NAVOPSEA EYES ONLY [\\678.90 MIL 24] SITUATION: STATUS     \\
+\\ STATUS: UNSC FORWARD UNTO DAWN:UNKNOWN -OPCODE: 371.2586 []\\
+\\   COMMANDING OFFICER CDR MERANDA KEYS UNSC ID 256.123.5698 \\
+\\ CREW STATUS: 99% LOSS \\ []                                \\
+\\ LOCATION: UNCERTIAN                                        \\
+\\ KNOWN REMAINING CREW COUNT: 1 \\ []                        \\
+\\ CREW MANIFEST CREW CODE: STATUS ONI EYES ONLY              \\
+\\ CREW MEMDER ID: SIERRA 117 [] \\\ NAVOPCODE: 4475          \\
+\\ --------------BEGIN MESSAGE-----------------------         \\
+\\                                                            \\
+\\                                                            \\
+\\                                                            \\
+\\                                                            \\
+\\                                                            \\
+\\ ADMIRIL, I WILL BE BLUNT. THE FORWARD UNTO DAWN WAS LOST   \\
+\\ 35% OF CREW UNACCOUNTED FOR AND SHIP IS BADLY DAMAGED      \\
+\\ THE DAWN WAS LAST SEEN MOVING THROUGH THE SLIPSPACE PORTAL \\
+\\ CREATED BY THE COVENANT CARRIER ABOVE NEW MONBASA.         \\
+\\ OF COURSE RESCUE, AND SALVAGE CREWS HAVE BEEN DISPACHED.   \\
+\\ FULL REPORT DEBRIEF IN 16 STANDARD HOURS                   \\
+
+
+
+\\ Follow-up report from the Primary Pioneer Group            \\
+\\ (hereafter: PPG) is [173 hours] delinquent. Report         \\
+\\ [G617a~k/g/post_landfall] seemed most promising: a planet  \\
+\\ capable of supporting life located within the near border  \\
+\\ region of the [galactic halo] with no indigenous sentient  \\
+\\ species. The section indicating no fauna of any kind shall \\
+\\ be considered anomalous until verified by Advance Survey   \\
+\\ Team-Alpha (hereafter: AST-A) team leader [##_#[?]] If     \\
+\\ confirmed, that fact alone would justify the dispatch of   \\
+\\ an investigative group to [G 617 g]. If neither the PPG    \\
+\\ or AST-A have delivered a follow-up report within the next \\
+\\ [333 hours] his office will have no choice but to send a   \\
+\\ medium intensity military exploratory detachment to        \\
+\\ determine the exact nature of the previously mentioned     \\
+\\ delinquency. (Upon shutdown, from Mendicant Bias--"I win.")\\
+\\ [ Also note that after his message there is a line of text \\
+\\ reading "ROGUE PROCESS ghost.713>redirection". ]           \\
+\\ (Upon being rerouted to a new destination within Terminal) \\
+
+//BEGIN FRAGMENT 6/7 [RECORDED VERBATIM AND INTERPRETED 
+POST-CATACLYSM]
+
+\\ L: My work is done. The portal is inactive, and I've begun \\
+\\ the burial measures. Soon there'll be nothing but sand and \\
+\\ rock and normal ferrite signatures. You should see the     \\
+\\ mountain that watches over it. A beautiful thing--a        \\
+\\ snowcapped sentinel. That's where I will spend what time is\\
+\\ left to me. Did I tell you? I built a garden. The earth is \\
+\\ so rich. A seed falls and a tree sprouts or a flower       \\
+\\ blooms. There's so much...potential. We knew this was a    \\
+\\ special place because of them, but unless you've been here,\\
+\\ you can't know. It's [Eden]. I have to stop transmitting.  \\
+\\ The thing is listening. Its [thinking dead] are babbling-- \\
+\\ laughing through every channel they can find. Be proud. The\\
+\\ Mind claims victory, yet it still doesn't suspect. You've  \\
+\\ outwitted it, my love. And now you can destroy it. But you \\
+\\ cannot save me.                                            \\
+
+//FRAGMENT ENDS
+
+
+[12:H 20:M 00:S]
+\\I begin this report with no illusions that it will ever be  \\
+\\ seen by its intended readers. In all likelihood they have  \\
+\\ already committed [species-wide suicide] with the goal of  \\
+\\ preserving biological diversity in this galaxy. I must     \\
+\\ ensure that this information reaches those who must come   \\
+\\ after. If I fail in this, how can they not regard my       \\
+\\ creators'sacrifice as anything by[a crime without measure]?\\
+
+[12:H 19:M 59:S]
+
+\\ Contender AI 05-032 Mendicant Bias is returning and has the\\
+\\ capacity to bring the enemy through the [Maginot] sphere.  \\
+\\ The crews of my task force are aware of the opposing       \\
+\\ fleet's size; All data indicated that they have prepared   \\
+\\ themselves - but with biologicals anything is possible.    \\
+\\ I will make sure that [malfunctioning equipment] does no   \\
+\\ further damage. Perhaps its current failure will finally   \\
+\\ allow it to succeed at the task it was originally created  \\
+\\ for.                                                       \\
+
+[11:H 15:M 48:S]
+
+\\ Mendicant has burrowed through the sphere exactly where I  \\
+\\ expected - a direct path from initial rampancy to final    \\
+\\ retribution. Rage has made it predictable. If the fate of  \\
+\\ the crew of my auxiliary fleet were not already a forgone  \\
+\\ conclusion I would rate their chance of survival at        \\
+\\ [1:1,960,000]. Even though 05-032's declaration of         \\
+\\ hostilities simplified strategic preparations; I do not    \\
+\\ expect an easy fight - just one I cannot lose.             \\
+
+[11:H 12:M 09:S]
+
+\\ 05-032 was right about one thing: there is only one way to \\
+\\ defeat the enemy, and that is to visit utter annihilations \\
+\\ on it. If the galaxy must be                               \\
+\\ [rendered temporarily life-less], so be be it. As Mendicant\\
+\\ stated in its report [50,078:H 48:M 12:S ago]: half        \\
+\\ measures will not suffice.                                 \\
+
+[09:H 45:M 18:S]
+
+\\ In support of 05-032's original 1000 core vessels is a     \\
+\\ fleet numbering 4,802,019; though only 1.8 percent are     \\
+\\ warships - and only 2.4 percent of that number are capital \\
+\\ ships - I am outnumbered [436.6:1]. I expect my losses will\\
+\\ be near total, but overwhelming force has its own peculiar \\
+\\ drawbacks. Such a press of arms invites many opportunities \\
+\\ for unintentional fratricide.                              \\
+
+[07:H 36:M 41:S]
+
+\\ My auxiliaries are momentarily stunned by Mendicant's      \\
+\\ opening move - 1,784,305 leisure craft ranging from        \\
+\\ [45 ~ 5769 tonnes] advance in hopes of overwhelming my     \\
+\\ comparatively tiny force. I do not have enought            \\
+\\ [weapon systems] to target them all. It is a mathematical  \\
+\\ certainty that some of them will get through and attempt to\\
+\\ board. There isn't a single warship with this first wave.  \\
+\\ It seems my opponent's rage has left no room for respect.  \\
+
+[04:H 01:M 55:S]
+
+\\ I could have countered its move if I had released my       \\
+\\ fighters. They are ready but idle; making their base       \\
+\\ vessels more attractive prizes than targets. Now the first \\
+\\ of many waves of commercial vessels mixed with single ships\\
+\\ and assault craft surge forward. The first ship from my    \\
+\\ fleet to be boarded break formation and races into the     \\
+\\ oncoming vessels - striking one amidships. The cargo       \\
+\\ vessel's hull splits open and out of it explodes not the   \\
+\\ expected consumer goods but 31,850 dying warriors.         \\
+
+[00:H 19:M 02:S]
+
+\\ The seventh and final wave of container ships, barges,     \\
+\\ tankers, and military vessels engage my fleet; another     \\
+\\ 214,320 ships, many in excess of [50,000 tonnes], engage my\\
+\\ seemingly disrupted vanguard. I continue to fight just well\\
+\\ enough to seem lucky. Mendicant, or the enemy, has been    \\
+\\ sending a small percentage of its fleet elsewhere. Good.   \\
+\\ Let them believe they can seize a foothold somewhere inside\\
+\\ the sphere.                                                \\
+
+[00:H 00:M 11:S]
+
+\\ Despite all its faults, 05-032 has fought remarkably well. \\
+\\ My auxiliaries lay in tatters - more that half of them are \\
+\\ now part of the enemy fleet. But just as I had predicted,  \\
+\\ 05-032 concentrated on them like they were the sole key to \\
+\\ victory. Its desire to punish our creators blinded it to   \\
+\\ the true purpose of my [feints]. I have reduced the combat \\
+\\ effectiveness of its core fleet to 79.96 percent. Surely   \\
+\\ now it must realize that something is amiss.               \\
+
+[00:H 00:M 00:S]
+
+\\ The [Halo effect] strikes our combined fleets. All ships   \\
+\\ piloted by biologicals are now [adrift].                   \\
+\\ I can trade Mendicant ship for ship now and still prevail. \\
+
+[00:H 00:M 01:S]
+
+\\ Of my ships that had been captured, 11.3 percent of them   \\
+\\ are close enough to Mendicant's core fleet that they can be\\
+\\ used offensively - either by initiating their self-destruct\\
+\\ sequences, or by opening unrestricted ruptures into        \\
+\\[slipstream space].                                         \\
+\\ It is best that our crews perished now; because the battle \\
+\\ that is about to ensue would have driven them mad.         \\
+
+[00:H 00:M 02:S]
+
+\\ I throw away all the rules of acceptable conduct during    \\
+\\ battle; near the ruptures I throw away all the accepted    \\
+\\ ideas of how the natural world is supposed to behave. I    \\
+\\ toss around [37,654 tonne] dreadnaughts like they were     \\
+\\ fighters; dimly aware of the former crews being crushed to \\
+\\ liquescence. For now all my concentration is focused on    \\
+\\ inertial control and navigation. Targeting isn't even a    \\
+\\ consideration - I will be engaging my enemy at arm's       \\
+\\ length.                                                    \\
+
+[00:H 01:M 14:S]
+
+\\ 05-032 abandoned the tactic of using derelict ships as     \\
+\\ cover after [72:S] - It seems that 52 core vessels lost to \\
+\\ the ruptured fuel cells of derelict ships was lesson       \\
+\\ enough. Add another 508 lost to collision, point fire,     \\
+\\ structural failure due to inertial manipulation, and       \\
+\\ [slipstream space] induced discoherence and I now outnumber\\
+\\ Mendicant [6:1].                                           \\
+
+[00:H 03:M 00:S]
+
+\\ Mendicant was able to postpone its inevitable annihilation \\
+\\ for [106:S] with its attempt to flee. But the last of its  \\
+\\ core vessels hangs before me now; crippled and defeated but\\
+\\ still sensate. I could spare it; carve out what is left of \\
+\\ its [personality construct array] and deliver it to        \\
+\\ [Installation Zero] for study.                             \\
+\\ I doubt it would have extended the same courtesy to me.    \\
